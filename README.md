@@ -6,7 +6,7 @@ I'm working as Senior iOS developer and Software development Team Lead in Kasra 
 
 👨🏻‍💻  Working in Scrum and Agile Environment
 
-- 🌱 I’m currently learning SwiftUI and Flutter
+🌱 I’m currently learning SwiftUI and Flutter
 
 🎵  Music Lover
 
