@@ -10,6 +10,6 @@ I'm working as Senior iOS developer and Software development Team Lead in Kasra 
 
 🎵  Music Lover
 
-👍  Linkedin Profile linkedin.com/in/javid-davoud
+👍  Linkedin Profile linkedin.com/in/javid-davoud-359111176
 
 📫  Reach me [at] javid.davood@gmail.com
