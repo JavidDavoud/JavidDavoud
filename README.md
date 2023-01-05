@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Javid Davoud !
 
-I'm working as Senior iOS developer and Software development Team Lead in Kasra Company.
+I'm working as Senior iOS developer in *780# company.
 
 👨🏻‍💻  Working in Scrum and Agile Environment
 
